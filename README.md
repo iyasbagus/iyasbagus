@@ -1,6 +1,6 @@
 ![logo](https://github.com/iyasbagus/iyasbagus/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Iyas Bagus</h1>
-<h3 align="center">A passionate Frontend Developer from Indonesia</h3>
+<h3 align="center">A passionate Junior Frontend Developer from Indonesia</h3>
 
 <img align="right" alt="animated" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNqeWZuem5ucTEyYmwwNDFqcXU3Mzl6a2s5OHE5eWlxbGY4ZWo0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mnudwTulqUVR6/giphy.gif">
 
